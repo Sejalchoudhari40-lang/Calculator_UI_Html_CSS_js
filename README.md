@@ -26,4 +26,7 @@ A modern calculator built using HTML, CSS, and JavaScript.
 ## Author
 
 Sejal Choudhari
+
+
+
 B.Tech CSE(AI)
