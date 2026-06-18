@@ -28,5 +28,4 @@ A modern calculator built using HTML, CSS, and JavaScript.
 Sejal Choudhari
 
 
-
 B.Tech CSE(AI)
